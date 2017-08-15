@@ -1,6 +1,6 @@
 # Github_sebastian_olesen
 
-# Sådan oprettes en ny Repositorie  
+# Sådan oprettes en ny Repository  
 
 ## Fremgangsmåde:  
 1. Vælg krydset ved siden af dit profilbillede. 
